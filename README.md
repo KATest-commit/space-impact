@@ -1,10 +1,11 @@
-# 🚀 Space Impact  
+# 🚀 Karan Space Impact
 
 A retro-style 2D space shooter built using **HTML5 Canvas, CSS, and JavaScript**. Inspired by classic arcade game (Nokia space-impact), this project delivers fast-paced gameplay with smooth animations, enemy waves, and power-ups.
 
 ---
 
-## 🎮 Features ...
+## 🎮 Features
+
 - 🚀 Player-controlled spaceship with smooth movement  
 - 👾 Multiple enemy types with unique behaviors  
 - 🔫 Shooting mechanics with upgrades (Rapid Fire, Triple Shot)  
